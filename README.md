@@ -2,7 +2,7 @@
 
 Sebuah aplikasi web modern untuk membuat dan menganalisis kata sandi, dibangun dengan backend Go yang super cepat dan frontend yang interaktif. Ini bukan sekadar generator biasa, melainkan sebuah toolkit untuk memahami dan menciptakan kata sandi yang benar-benar aman.
 
-!(Screenshot.png)
+![Screenshot Placeholder](Screenshot.png)
 -----------------
 
 ## ✨ Fitur Utama
